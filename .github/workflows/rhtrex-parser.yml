@@ -47,4 +47,4 @@ jobs:
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         labels: |
           ok-to-test
-        reviewers: eemurphy, markturansky, gurnben
+        reviewers: eemurphy
